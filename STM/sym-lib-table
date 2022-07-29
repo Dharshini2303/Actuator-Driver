@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "DRV8301DCAR2")(type "KiCad")(uri "C:/Users/Dharshini/Downloads/LIB_DRV8301DCAR/DRV8301DCAR/KiCad/DRV8301DCAR.kicad_sym")(options "")(descr ""))
+  (lib (name "Sarcomere-altium-import")(type "KiCad")(uri "${KIPRJMOD}/Sarcomere-altium-import.kicad_sym")(options "")(descr ""))
+)
